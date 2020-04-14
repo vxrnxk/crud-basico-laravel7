@@ -1,0 +1,11 @@
+.table-buttons {
+    float: right;
+}
+
+.table-buttons .btn {
+    text-align: right;
+}
+
+.table-buttons form {
+    display: contents;
+}
